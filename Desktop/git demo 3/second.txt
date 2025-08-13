@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 second commit text
 implement login features
 fixed password security
+=======
+second commit text 
+>>>>>>> payments
+fix a payments bug

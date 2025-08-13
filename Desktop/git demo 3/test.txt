@@ -1,3 +1,7 @@
 My first cloud computing class
 I just finished my first cloud computing class and I must say it was a great experience.
+<<<<<<< HEAD
 implement login features
+=======
+.payments features
+>>>>>>> payments
